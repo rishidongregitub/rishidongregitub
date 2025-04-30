@@ -21,6 +21,8 @@ I'm a Frontend Developer  with  3 years of experience in Web Development.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Articulate 360](https://img.shields.io/badge/-Articulate%20360-FF6F61?logo=articulate&logoColor=white&style=flat)  
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-47A248?logo=coreldraw&logoColor=white&style=flat)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](www.linkedin.com/in/rishidongre)
